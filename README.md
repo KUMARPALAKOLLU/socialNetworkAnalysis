@@ -1,4 +1,4 @@
-# socialNetworkAnalysis
+# Social Network Analysis
 The Social Network Analysis (SNA) is a field of study that focuses on understanding and analyzing the relationships and interactions among individuals or entities within a social network. A social network consists of a set of nodes (representing individuals, organizations, or any other entity) and their connections or edges (representing relationships, interactions, or associations). SNA provides a framework and tools to study the patterns, structures, and dynamics of social networks.
 
 # Why Analyze Social Networks?
